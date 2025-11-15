@@ -12,6 +12,7 @@ body {
   gap: 2rem;
   margin: 1.5rem auto;
   max-width: 1200px;
+  height: 900px;
 
   /* repeatable elements */
   .box {
@@ -196,3 +197,4 @@ body {
     }
   }
 }
+
