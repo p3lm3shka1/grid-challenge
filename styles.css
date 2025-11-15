@@ -13,6 +13,7 @@ body {
   margin: 1.5rem auto;
   max-width: 1200px;
   height: 900px;
+  padding: 5% 0;
 
   /* repeatable elements */
   .box {
@@ -197,4 +198,5 @@ body {
     }
   }
 }
+
 
