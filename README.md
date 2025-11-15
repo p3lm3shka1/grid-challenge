@@ -6,7 +6,8 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 ### Desktop ver. ###
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/93c40ad9-643e-470a-b7c2-da0b3e932e1c" />
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/4c4f47a0-4a93-424f-8d0a-8c8ab3185d0c" />
+
 
 ### Mobile ver. 
 
